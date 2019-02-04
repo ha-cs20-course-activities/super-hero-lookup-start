@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+}
+
+
+#main {
+    background-color: white;
+    width: 800px;
+    padding: 5px 50px;
+    margin: auto;
+    font-family: "Helvetica", sans-serif;
+    text-align: center;
+    border-radius: 25px;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+p, select {
+    font-size: 1.25rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+a {
+    color: navy;
+}
